@@ -6,4 +6,6 @@ git add .
 
 git commit -m "sample"
 
-git push
+git
+
+this is from new branch
