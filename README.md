@@ -11,3 +11,5 @@ git
 this is from new branch
 
 some line
+
+git pull, git fetch
